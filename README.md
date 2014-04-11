@@ -14,7 +14,7 @@ it's not user friendly, not easy to install, but it does what I want. So if, lik
 Installation
 ============
 
-* [Download](https://github.com/downloads/acemtp/chrome_mru/chrome_mru.exe) the Windows binary (or recompile it with Visual Studio C++ Express 2008)
+* [Download](https://www.dropbox.com/s/0l57cn18opjxir7/chrome_mru.exe) the Windows binary (or recompile it with Visual Studio C++ Express 2008)
 * There's no install, it's just a standalone program, put it somewhere (c:\bin) and double click on it
 * Install the [Recent Tabs](https://chrome.google.com/webstore/detail/ocllfmhjhfmogablefmibmjcodggknml) Google Chrome extension
 * Go to the `Recent Tabs` settings and set the `Shortcut key` to `CLTR+~` (the key above the `Tab` key)
