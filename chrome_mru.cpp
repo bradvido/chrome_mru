@@ -63,7 +63,7 @@ WNDCLASS wclassSetKey=
 };
 
 // Default key to remap
-unsigned int nHotKeyChar=0xde; // (tilde)
+unsigned int nHotKeyChar=0xc0; // (tick)
 
 int mutex=0;
 HFONT hFont;
